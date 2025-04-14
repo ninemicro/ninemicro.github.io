@@ -1,0 +1,65 @@
+Title: Inception
+Genre: Fiction
+Director Name: Christopher Nolan
+Studio: Warner Bros.
+Year: 2010
+
+Title: The Lego Movie
+Genre: Comedy
+Director Name: Phil Lord
+Director Name: Christopher Miller
+Studio: Warner Bros.
+Year: 2014
+
+Title: Hereditary
+Genre: Horror
+Director Name: Ari Aster
+Studio: A24
+Year: 2018
+
+Title: The Matrix
+Genre: Action
+Director Name: Lana Wachowski
+Director Name: Lilly Wachowski
+Studio: Warner Bros.
+Year: 1999
+
+Title: Spider-Man: Into the Spider-Verse
+Genre: Animation
+Director Name: Bob Persichetti
+Director Name: Peter Ramsey
+Director Name: Rodney Rothman
+Studio: Sony Pictures
+Year: 2018
+
+Title: Slumdog Millionaire
+Genre: Drama
+Director Name: Danny Boyle
+Director Name: Loveleen Tandan
+Studio: Fox Searchlight
+Year: 2008
+
+Title: The Dark Knight
+Genre: Action
+Director Name: Christopher Nolan
+Studio: Warner Bros.
+Year: 2008
+
+Title: Everything Everywhere All at Once
+Genre: Fiction
+Director Name: Daniel Kwan
+Director Name: Daniel Scheinert
+Studio: A24
+Year: 2022
+
+Title: The Conjuring
+Genre: Horror
+Director Name: James Wan
+Studio: Warner Bros.
+Year: 2013
+
+Title: Fantastic Mr. Fox
+Genre: Animation
+Director Name: Wes Anderson
+Studio: 20th Century Fox
+Year: 2009
